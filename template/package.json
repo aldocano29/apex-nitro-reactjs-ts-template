@@ -1,15 +1,15 @@
 {
-  "name": "apex-nitro-template-default",
+  "name": "apex-nitro-reactjs-ts-template",
   "version": "2.0.0",
-  "description": "APEX Nitro Template - Default",
-  "author": "Vincent Morneau",
+  "description": "APEX Nitro Template - ReactJS + TypeScript",
+  "author": "Aldo Cano",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vincentmorneau/apex-nitro-template-default.git"
+    "url": "https://github.com/aldocano29/apex-nitro-reactjs-ts-template.git"
   },
   "bugs": {
-    "url": "https://github.com/vincentmorneau/apex-nitro-template-default/issues"
+    "url": "https://github.com/aldocano29/apex-nitro-reactjs-ts-template/issues"
   },
   "dependencies": {
     "@babel/compat-data": "^7.12.1",
