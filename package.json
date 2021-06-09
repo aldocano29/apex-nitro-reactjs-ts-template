@@ -1,0 +1,40 @@
+{
+  "name": "apex-nitro-template-default",
+  "version": "2.0.2",
+  "description": "APEX Nitro Template - Default",
+  "main": "init.js",
+  "bin": {
+    "apex-nitro-template-default": "./init.js"
+  },
+  "keywords": [
+    "oracle",
+    "apex",
+    "apex-nitro",
+    "javascript",
+    "template",
+    "library"
+  ],
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {
+    "xo": "^0.34.1"
+  },
+  "scripts": {
+    "test": "xo",
+    "fix": "xo --fix"
+  },
+  "xo": {
+    "ignores": [
+      "template/webpack.dev.js",
+      "template/webpack.prod.js",
+      "template/src"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vincentmorneau/apex-nitro-template-default"
+  },
+  "author": "Vincent Morneau",
+  "license": "MIT"
+}
