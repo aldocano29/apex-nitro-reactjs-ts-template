@@ -3,7 +3,7 @@
   "type": "commonjs",
   "version": "2.0.2",
   "description": "APEX Nitro Template - ReactJS + TypeScript",
-  "exports": "./index.js",
+  "main": "init.js",
   "bin": {
     "apex-nitro-reactjs-ts-template": "./init.js"
   },
