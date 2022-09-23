@@ -16,10 +16,10 @@
     "library"
   ],
   "dependencies": {
-    "inquirer": ">=7.3.3"
+    "inquirer": "^7.3.3"
   },
   "devDependencies": {
-    "xo": ">=0.34.1"
+    "xo": "^0.34.1"
   },
   "scripts": {
     "test": "xo",
