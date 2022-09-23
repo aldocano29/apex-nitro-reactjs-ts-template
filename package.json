@@ -1,6 +1,6 @@
 {
   "name": "apex-nitro-reactjs-ts-template",
-  "type": "module",
+  "type": "commonjs",
   "version": "2.0.2",
   "description": "APEX Nitro Template - ReactJS + TypeScript",
   "exports": "./index.js",
